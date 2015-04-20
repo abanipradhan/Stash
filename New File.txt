@@ -2,4 +2,15 @@
 
 2nd change
 
+<<<<<<< Updated upstream
 3rd change
+=======
+<<<<<<< HEAD
+
+4Th Change
+=======
+3rd change
+>>>>>>> origin/master
+>>>>>>> Stashed changes
+
+5th Change
